@@ -9,6 +9,7 @@ public class HelloWorld {
 
         System.out.println("Hello to PR0-World!");
         System.out.println("Zweite Ausgabezeile");
+        System.out.println("Dritte Ausgabezeile");
 
     }
 }
